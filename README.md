@@ -1,0 +1,3 @@
+# Skriptly_Speaking
+
+This is the readme for the Skriptly_Speaking repo....
